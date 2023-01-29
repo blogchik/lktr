@@ -16,4 +16,6 @@
 
 <hr>
 
+<code> <a href='https://t.me/lktr_uz'>Telegram kanalimizga qo'shiling</a> </code>
+
 <code> ©️ <b>LinkTree - LKTR.UZ</b> 2023 </code>
