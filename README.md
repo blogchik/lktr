@@ -1,5 +1,6 @@
-### LinkTree - LKTR.UZ
-#### Create your link tree for free!
+<a href='https://lktr.uz'>
+  <img alt='' src='https://lktr.uz/images/og_landing.png'>
+</a>
 
 <hr>
 
